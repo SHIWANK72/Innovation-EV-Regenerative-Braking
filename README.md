@@ -5,7 +5,7 @@ An innovative prototype of a regenerative braking system for EVs, featuring a mi
 This repository documents an innovative academic project: a prototype of a **regenerative braking system** for Electric Vehicles (EVs). The core innovation is the development of an intelligent control system that efficiently recovers kinetic energy typically lost during braking.
 
 ## Project Vision
-The primary goal was to extend the effective range of an EV by capturing braking energy, converting it to electricity, and storing it back in the battery. [cite_start]This project serves as a proof-of-concept for applying smart electronics to improve energy efficiency. [cite: 49]
+The primary goal was to extend the effective range of an EV by capturing braking energy, converting it to electricity, and storing it back in the battery. This project serves as a proof-of-concept for applying smart electronics to improve energy efficiency. 
 
 ## System Architecture
 The system is comprised of both hardware and software components:
