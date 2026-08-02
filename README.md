@@ -19,3 +19,6 @@ The controller continuously monitors the vehicle's state. It activates the regen
 
 ## Key Learnings
 This project was an excellent exercise in system integration, combining principles of power electronics, microcontroller programming, and control theory to create a practical and innovative solution.
+gupta.shiwank09@gmail.com
+Nik-Coronics Semitech R&D
+
